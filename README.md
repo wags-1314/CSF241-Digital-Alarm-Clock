@@ -7,3 +7,4 @@ A working 12/24 Hr Digital Alarm Clock powered by a 80x86 processor with a simul
 3. Vishnu Teja Soorea
 4. Saketh Kilaru
 5. Deepak Anantha Bhaskar
+6. Rishabh Anil Keste
