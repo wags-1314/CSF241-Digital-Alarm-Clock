@@ -1,5 +1,5 @@
 # CSF241 Final Project: Digital Alarm Clock
-A working 12/24 Hr Digital Alarm Clock powered by a 80x86 processor with interfaces to a LCD display with a simulation running on Proteus software.
+A working digital 12/24hr alarm clock simulated on ISIS Proteus and powered by a 8086 microprocessor with interfacing with 8255 and 8253 programmable interfaces, with an LCD screen and a buzzer circuit to perform basic time-keeping operations.
 
 ### Made by:
 1. [Bhargav Kishor Kulkarni](https://github.com/wags-1314)
