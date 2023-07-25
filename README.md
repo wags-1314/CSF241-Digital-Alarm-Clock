@@ -6,5 +6,5 @@ A working digital 12/24hr alarm clock simulated on ISIS Proteus and powered by a
 2. [Ananth Vishnubotla](https://github.com/AnanthV0509)
 3. [Vishnu Teja Soorea](https://github.com/V-T-Soorea)
 4. [Saketh Kilaru](https://github.com/sakethkilaru)
-5. [Deepak Anantha Bhaskar](https://github.com/DeepkB)
+5. [Deepak Anantha Bhaskar](https://github.com/DeepkB) 
 6. [Rishabh Anil Keste]()
